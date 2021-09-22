@@ -12,6 +12,7 @@ export const ImageGalleryItem=()=>{
                 <tr>
                     <td>
                         <div>Shahrukh Khan</div>
+                        <div>Khan</div>
                     </td>
                 </tr>
             </table>
