@@ -1,0 +1,23 @@
+.tabledata{
+    margin:10px;
+    padding:10px;
+    text-align:center;
+    font-size: 25px;
+    color:mediumblue
+}
+.tabledata td{
+    padding:5px;
+    background-color: lightskyblue;
+    color:maroon;
+    font-size: 20px;
+    font-weight: bolder;
+    border-radius: 3px;
+    padding-right:30px;
+    margin:10px;
+}
+.tableHeader{
+    text-align:center;
+    background-color: maroon;
+    font-size: 30px;
+    color:white;
+}
